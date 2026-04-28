@@ -2,7 +2,7 @@
 # AI-Driven Displacement in Australia's Financial Services Sector: A Labour Market Policy Proposal
 
 **To:** Deputy Secretary, Employment & Skills, Department of Employment and Workplace Relations
-**From:** [Your Name]
+**From:** Hoang Bao Vinh
 **Date:** April 2026
 **Subject:** Evidence-based policy response to AI-driven labour displacement in financial services and administrative occupations
 
