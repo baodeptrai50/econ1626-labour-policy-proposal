@@ -1,1 +1,39 @@
 # econ1626-labour-policy-proposal
+
+Policy proposal for ECON1626 — Economics of Artificial Intelligence, Assignment 2.
+
+## Overview
+
+This repository contains an evidence-based policy proposal addressing the labour market impacts of artificial intelligence in Australia's financial services sector. The proposal is addressed to the Deputy Secretary, Employment & Skills, Department of Employment and Workplace Relations.
+
+## Repository Structure
+
+```
+econ1626-labour-policy-proposal/
+├── README.md        ← You are here — project overview and navigation
+└── proposal.md      ← Main 1,200-word policy brief (submit this)
+```
+
+## Proposal Summary
+
+**Topic:** AI-driven task displacement in Australia's financial services and administrative occupations
+
+**Policy client:** Deputy Secretary, Employment & Skills, DEWR
+
+**Key argument:** Generative AI is automating routine cognitive tasks in financial services, disproportionately affecting women, regional workers, and mid-career employees. A sequenced package of reskilling, wage insurance, and an AI productivity levy offers the most equitable and fiscally sustainable response.
+
+**Policy options evaluated:**
+- Option A: National reskilling program (modelled on Singapore's SkillsFuture)
+- Option B: Wage insurance scheme
+- Option C: AI productivity levy (0.5% on AI-attributable gains)
+
+**Recommended package:** Options A + B in sequence (Phases 1–2), with Option C introduced in Phase 3 to place the program on a self-sustaining fiscal basis.
+
+## Key Sources
+
+- Acemoglu & Restrepo (2018, 2022) — task displacement model
+- Autor, Levy & Murnane (2003) — routinisation hypothesis
+- Brynjolfsson, Li & Raymond (2023) — generative AI productivity effects
+- Eloundou et al. (2023) — GPTs as General Purpose Technologies
+- Jobs and Skills Australia (2024) — Australian automation exposure data
+- OECD (2023) — employment outlook and ALMP returns
