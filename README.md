@@ -25,9 +25,9 @@ econ1626-labour-policy-proposal/
 **Policy options evaluated:**
 - Option A: National reskilling program (modelled on Singapore's SkillsFuture)
 - Option B: Wage insurance scheme
-- Option C: AI productivity levy (0.5% on AI-attributable gains)
+- Option C: Competition & data access policy (interoperability mandates, open training data)
 
-**Recommended package:** Options A + B in sequence (Phases 1–2), with Option C introduced in Phase 3 to place the program on a self-sustaining fiscal basis.
+**Recommended package:** Options A + B in sequence (Phases 1–2), with Option C (competition & data reform) initiated concurrently to address long-run market structure conditions.
 
 ## Key Sources
 
