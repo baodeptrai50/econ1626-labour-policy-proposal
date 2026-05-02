@@ -69,9 +69,9 @@ The government should implement Options A and B in sequence, with Option C initi
 
 ## References
 
-ABS (Australian Bureau of Statistics) (2024) *Labour force, Australia*, ABS website, accessed April 2026. https://www.abs.gov.au/statistics/labour/employment-and-unemployment/labour-force-australia
+ABS (Australian Bureau of Statistics) (2024) *Labour force, Australia*, ABS website, accessed 29 April 2026. https://www.abs.gov.au/statistics/labour/employment-and-unemployment/labour-force-australia
 
-Acemoglu D (2024) *The simple macroeconomics of AI*, NBER Working Paper 32487, National Bureau of Economic Research website, accessed April 2026. https://www.nber.org/papers/w32487
+Acemoglu D (2024) *The simple macroeconomics of AI*, NBER Working Paper 32487, National Bureau of Economic Research website, accessed 29 April 2026. https://www.nber.org/papers/w32487
 
 Acemoglu D and Restrepo P (2018) 'The race between man and machine: implications of technology for growth, factor shares and employment', *American Economic Review*, 108(6):1488–1542.
 
@@ -81,7 +81,7 @@ Autor D, Levy F and Murnane R (2003) 'The skill content of recent technological 
 
 Berg C (forthcoming) *Artificial intelligence: a classical liberal approach*, Palgrave, London.
 
-Brynjolfsson E, Li D and Raymond L (2023) *Generative AI at work*, NBER Working Paper 31161, National Bureau of Economic Research website, accessed April 2026. https://www.nber.org/papers/w31161
+Brynjolfsson E, Li D and Raymond L (2023) *Generative AI at work*, NBER Working Paper 31161, National Bureau of Economic Research website, accessed 29 April 2026. https://www.nber.org/papers/w31161
 
 Eloundou T, Manning S, Mishkin P and Rock D (2023) 'GPTs are GPTs: an early look at the labor market impact potential of large language models', *Science*, 384(6702):1306–1308.
 
