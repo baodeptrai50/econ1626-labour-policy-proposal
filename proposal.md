@@ -70,26 +70,28 @@ The government should implement Options A and B in sequence, with Option C intro
 
 ## References
 
-Acemoglu, D. (2024). *The simple macroeconomics of AI*. NBER Working Paper 32487. https://www.nber.org/papers/w32487
+ABS (Australian Bureau of Statistics) (2024) Labour force, Australia, ABS website, accessed April 2026. https://www.abs.gov.au/statistics/labour/employment-and-unemployment/labour-force-australia
 
-Acemoglu, D., & Restrepo, P. (2018). The race between man and machine: Implications of technology for growth, factor shares and employment. *American Economic Review*, 108(6), 1488–1542.
+Acemoglu D (2024) The simple macroeconomics of AI, NBER Working Paper 32487, National Bureau of Economic Research website, accessed April 2026. https://www.nber.org/papers/w32487
 
-Acemoglu, D., & Restrepo, P. (2022). Tasks, automation, and the rise in US wage inequality. *Econometrica*, 90(5), 1973–2016.
+Acemoglu D and Restrepo P (2018) 'The race between man and machine: implications of technology for growth, factor shares and employment', American Economic Review, 108(6):1488–1542.
 
-Australian Bureau of Statistics. (2024). *Labour force, Australia*. ABS. https://www.abs.gov.au/statistics/labour/employment-and-unemployment/labour-force-australia
+Acemoglu D and Restrepo P (2022) 'Tasks, automation, and the rise in US wage inequality', Econometrica, 90(5):1973–2016.
 
-Autor, D., Levy, F., & Murnane, R. (2003). The skill content of recent technological change: An empirical exploration. *Quarterly Journal of Economics*, 118(4), 1279–1333.
+Autor D, Levy F and Murnane R (2003) 'The skill content of recent technological change: an empirical exploration', Quarterly Journal of Economics, 118(4):1279–1333.
 
-Brynjolfsson, E., Li, D., & Raymond, L. (2023). *Generative AI at work*. NBER Working Paper 31161. https://www.nber.org/papers/w31161
+Berg C (forthcoming) Artificial intelligence: a classical liberal approach, Palgrave, London.
 
-Eloundou, T., Manning, S., Mishkin, P., & Rock, D. (2023). GPTs are GPTs: An early look at the labor market impact potential of large language models. *Science*, 384(6702), 1306–1308.
+Brynjolfsson E, Li D and Raymond L (2023) Generative AI at work, NBER Working Paper 31161, National Bureau of Economic Research website, accessed April 2026. https://www.nber.org/papers/w31161
 
-Jobs and Skills Australia. (2024). *Australia's future workforce: Skills and training needs in the age of AI*. Australian Government.
+Eloundou T, Manning S, Mishkin P and Rock D (2023) 'GPTs are GPTs: an early look at the labor market impact potential of large language models', Science, 384(6702):1306–1308.
 
-Katz, L., & Krueger, A. (2019). The rise and nature of alternative work arrangements in the United States, 1995–2015. *ILR Review*, 72(2), 382–416.
+Jobs and Skills Australia (2024) Australia's future workforce: skills and training needs in the age of AI, Australian Government, Canberra.
 
-Nedelkoska, L., & Quintini, G. (2018). *Automation, skills use and training*. OECD Social, Employment and Migration Working Papers No. 202.
+Katz L and Krueger A (2019) 'The rise and nature of alternative work arrangements in the United States, 1995–2015', ILR Review, 72(2):382–416.
 
-OECD. (2023). *OECD employment outlook 2023: Artificial intelligence and the labour market*. OECD Publishing. https://doi.org/10.1787/08785bba-en
+Nedelkoska L and Quintini G (2018) Automation, skills use and training, OECD Social, Employment and Migration Working Papers No. 202, OECD Publishing, Paris.
 
-Productivity Commission. (2023). *5-year productivity inquiry: Advancing prosperity*. Australian Government.
+OECD (2023) OECD employment outlook 2023: artificial intelligence and the labour market, OECD Publishing, accessed April 2026. https://doi.org/10.1787/08785bba-en
+
+Productivity Commission (2023) 5-year productivity inquiry: advancing prosperity, Australian Government, Canberra.
