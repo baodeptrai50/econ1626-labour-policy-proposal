@@ -11,7 +11,7 @@ This repository contains an evidence-based policy proposal addressing the labour
 ```
 econ1626-labour-policy-proposal/
 ├── README.md        ← You are here — project overview and navigation
-└── proposal.md      ← Main 1,200-word policy brief (submit this)
+└── proposal.md      ← Main 1,200-word policy brief 
 ```
 
 ## Proposal Summary
