@@ -20,7 +20,7 @@ econ1626-labour-policy-proposal/
 
 **Policy client:** Deputy Secretary, Employment & Skills, DEWR
 
-**Key argument:** Generative AI is automating routine cognitive tasks in financial services, disproportionately affecting women, regional workers, and mid-career employees. A sequenced package of reskilling, wage insurance, and an AI productivity levy offers the most equitable and fiscally sustainable response.
+**Key argument:** Generative AI is automating routine cognitive tasks in financial services, disproportionately affecting women, regional workers, and mid-career employees. A sequenced package of reskilling, wage insurance, and competition & data access policy reform offers the most equitable and fiscally sustainable response.
 
 **Policy options evaluated:**
 - Option A: National reskilling program (modelled on Singapore's SkillsFuture)
