@@ -11,7 +11,7 @@ This repository contains an evidence-based policy proposal addressing the labour
 ```
 econ1626-labour-policy-proposal/
 ├── README.md        ← You are here — project overview and navigation
-└── proposal.md      ← Main 1,278-word policy brief (excluding reference, headings, data, and tables)
+└── proposal.md      ← Main 1,320-word policy brief (excluding reference, headings, data, and tables)
 ```
 
 ## Proposal Summary
@@ -31,9 +31,10 @@ econ1626-labour-policy-proposal/
 
 ## Key Sources
 
-- Acemoglu & Restrepo (2018, 2022) — task displacement model
-- Autor, Levy & Murnane (2003) — routinisation hypothesis
-- Brynjolfsson, Li & Raymond (2023) — generative AI productivity effects
+- Acemoglu & Restrepo (2018, 2022) - task displacement model
+- Autor, Levy & Murnane (2003) - routinisation hypothesis
+- Brynjolfsson, Li & Raymond (2023) - generative AI productivity effects
 - Eloundou et al. (2023) — GPTs as General Purpose Technologies
-- Jobs and Skills Australia (2024) — Australian automation exposure data
-- OECD (2023) — employment outlook and ALMP returns
+- Jobs and Skills Australia (2024) - Australian automation exposure data
+- OECD (2023) - employment outlook and ALMP returns
+- CBA (Commonwealth Bank of Australia) (2026) - CBA quiet displacement case
