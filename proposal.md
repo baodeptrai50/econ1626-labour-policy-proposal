@@ -20,7 +20,7 @@ Generative AI is automating the routine cognitive tasks that underpin Australia'
  
 The deployment of large language models (LLMs) in Australian financial institutions represents a structural shift, not a cyclical adjustment. Unlike earlier automation waves that substituted for physical labour, LLMs directly substitute for cognitive and data-intensive tasks - the core of financial services work. Eloundou et al. (2023) estimate that 80% of the US workforce faces LLM exposure across at least 10% of their tasks, with concentration in high-skill, high-wage occupations - a reversal of historical automation patterns. In Australia, Jobs and Skills Australia (2024) identifies bank tellers, administrative assistants, data entry operators, and insurance processors as occupations with greater than 50% task exposure.
  
-The core economic risk is what Acemoglu (2024) terms "so-so technology": AI that generates firm-level productivity gains while automating tasks faster than new labour-demanding tasks are created, producing net labour income losses at the aggregate level. Australia's financial sector employed approximately 450,000 workers in 2023 (ABS 2024), with clerical and administrative roles comprising roughly 40% of that workforce. The policy challenge is to manage transitional displacement without suppressing the broader productivity gains that AI-enabled financial services will generate for the Australian economy.
+The core economic risk is what Acemoglu (2024) terms "so-so technology": AI that generates firm-level productivity gains while automating tasks faster than new labour-demanding tasks are created, producing net labour income losses at the aggregate level. Australia's financial sector employed approximately 450,000 workers in 2023 (ABS 2024), with clerical and administrative roles comprising roughly 40% of that workforce.
  
 ---
  
@@ -30,9 +30,9 @@ Following Autor, Levy and Murnane's (2003) task taxonomy, financial services wor
  
 Acemoglu and Restrepo (2018) demonstrate that each additional robot per 1,000 workers reduces the employment-to-population ratio by 0.2-0.3 percentage points and depresses wages by 0.4%; subsequent work attributes a significant share of the rise in US wage inequality directly to task automation, as occupations exposed to automation experience sustained wage compression relative to protected roles (Acemoglu and Restrepo 2022). Applied to AI-driven cognitive task automation, these estimates imply material deterioration in labour market outcomes for mid-skill workers. Brynjolfsson, Li and Raymond (2023) offer a partial offset: GPT-4 access raised productivity among low-skill customer service workers by up to 35%, suggesting that workers who gain access to AI tools - rather than being displaced by them - can achieve substantial productivity gains. This finding has direct policy implications: widening access to AI tools, rather than restricting their deployment, is the more efficient path to equity.
  
-The distributional consequences are nonetheless acute. Women represent approximately 70% of administrative and clerical workers in Australia (ABS 2024), making this principally a gender equity concern. Workers aged 45 and above face the steepest retraining barriers due to lower baseline digital literacy and shorter working lives over which to amortise reskilling investment. Regional workers face compounding disadvantage through limited access to alternative employment and training infrastructure.
+The distributional consequences are nonetheless acute. Women represent approximately 70% of administrative and clerical workers in Australia (ABS, 2024), making this principally a gender equity concern. Workers aged 45 and above face the steepest retraining barriers due to lower baseline digital literacy and shorter working lives over which to amortise reskilling investment. Regional workers face compounding disadvantage through limited access to alternative employment and training infrastructure.
  
-At the sector level, financial services is not contracting but restructuring: routine processing roles are being consolidated or eliminated while demand grows for hybrid roles combining domain expertise with AI oversight capabilities - compliance analysts, AI-augmented financial advisers, and model risk officers. Jobs and Skills Australia (2024) identifies these emerging roles as among the fastest-growing in the sector, yet the skills pipeline remains underdeveloped. The policy implication is that displacement and skills shortage coexist within the same sector simultaneously - a structural mismatch that market forces alone will not resolve within the adjustment window available to displaced workers.
+The Commonwealth Bank of Australia (CBA) illustrates this dynamic in real time. On 24 February 2026, CBA announced its "Future Workforce Program" - a $90 million AUD, three-year initiative repositioning approximately 5,000 employees into higher-value roles through AI microlearning and internal redeployment (CBA 2026). Simultaneously, the Finance Sector Union flagged a concurrent round of approximately 300 AI-driven redundancies across retail, business banking and technology divisions, publicly demanding the upskilling fund be directed toward those displaced (FSU 2026; Crozier 2026). This sequence - a workforce development announcement issued on the same day as targeted cuts - exemplifies what this proposal terms quiet displacement: restructuring that avoids the political visibility of mass layoffs while producing equivalent contraction among workers unable to adapt. Each individual reduction falls below the threshold that triggers policy response; replicated across Australia's 450,000 financial services workers, the cumulative effect constitutes a structural shock that reactive policy frameworks are not designed to detect or address in time.
  
 ---
  
@@ -88,7 +88,13 @@ Berg C (forthcoming) *Artificial intelligence: a classical liberal approach*, Pa
  
 Brynjolfsson E, Li D and Raymond L (2023) *Generative AI at work*, NBER Working Paper 31161, National Bureau of Economic Research website, accessed 1 May 2026. https://www.nber.org/papers/w31161
  
+CBA (Commonwealth Bank of Australia) (24 February 2026) *Future workforce: CBA launches new skills and careers program* [media release], CBA website, accessed 1 May 2026. https://www.commbank.com.au/articles/newsroom/2026/02/future-workforce-media-release.html
+ 
+Crozier R (25 February 2026) 'CBA to spend $90m to prepare its workforce for AI's influence', *iTnews*, accessed 1 May 2026. https://www.itnews.com.au/news/cba-to-spend-90m-to-prepare-its-workforce-for-ais-influence-623839
+ 
 Eloundou T, Manning S, Mishkin P and Rock D (2023) 'GPTs are GPTs: an early look at the labor market impact potential of large language models', *Science*, 384(6702):1306-1308.
+ 
+FSU (Finance Sector Union) (2026) *CBA cuts 300 jobs - Future Workforce Program must support displaced workers* [media release], FSU website, accessed 1 May 2026. https://www.fsunion.org.au/Hub/Content/News_and_publications/Media_releases/2026/CBA-cuts-300-jobs-Future-workforce-program-support.aspx
  
 Hyman BG, Kovak BK and Leive A (2024) *Wage insurance for displaced workers*, NBER Working Paper 32464, National Bureau of Economic Research website, accessed 1 May 2026. https://www.nber.org/papers/w32464
  
@@ -99,4 +105,3 @@ Nedelkoska L and Quintini G (2018) *Automation, skills use and training*, OECD S
 OECD (2023) *OECD employment outlook 2023: artificial intelligence and the labour market*, OECD Publishing, accessed 1 May 2026. https://doi.org/10.1787/08785bba-en
  
 Productivity Commission (2023) *5-year productivity inquiry: advancing prosperity*, Australian Government, Canberra.
-
